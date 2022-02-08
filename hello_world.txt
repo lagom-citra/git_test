@@ -1,0 +1,6 @@
+git clone <ssh thing copied from Github>
+git remote -v
+git status
+git add <modified files>
+git commit -m "Add <file>"
+git log
